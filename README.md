@@ -10,8 +10,8 @@ To. 2020.09.01 (5.5 개월)
  .
 ├── images
 │   └── chapter01
-│       └── fig 1.jpeg
-│       └── fig 2.png
+│       └── fig_1.jpeg
+│       └── fig_2.png
 │   └── chapter02
 │   └── ...
 ├── codes
@@ -61,4 +61,4 @@ p2:
 4. 소스코드 : [https://github.com/ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 5. TF Blog(참고): [https://tensorflow.blog/tag/richard-s-sutton/](https://tensorflow.blog/tag/richard-s-sutton/)
 6. LaTeX 심볼 : [https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-7. 깃허브 이미지 올리기 : [https://worthpreading.tistory.com/83](https://worthpreading.tistory.com/83)
+7. 깃허브 이미지 올리기(디스크 차지X) : [https://worthpreading.tistory.com/83](https://worthpreading.tistory.com/83)
