@@ -60,3 +60,4 @@ p2:
 3. 한글 PPT : [https://www.slideshare.net/carpedm20/presentations](https://www.slideshare.net/carpedm20/presentations)
 4. 소스코드 : [https://github.com/ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 5. TF Blog(참고): [https://tensorflow.blog/tag/richard-s-sutton/](https://tensorflow.blog/tag/richard-s-sutton/)
+6. LaTeX 심볼 : [https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
