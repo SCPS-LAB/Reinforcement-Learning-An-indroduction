@@ -8,17 +8,22 @@ To. 2020.09.01
 ### contents structure
 ```
  .
-├── image
-│   └── chapter1
-│       └── c1_1.jpeg
-│   └── chapter2
+├── images
+│   └── chapter01
+│       └── fig 1.jpeg
+│       └── fig 2.png
+│   └── chapter02
 │   └── ...
 ├── implementation
 │   └── sources
 │   └── ...
-├── chapter1.jype
+├── Chapter 1.introduction.jype
+├── Chapter 2.Multi-armed Bandits.jype
+├── ...
+
 ```
 
 참고링크 : 
-1. [https://tensorflow.blog/tag/richard-s-sutton/](https://tensorflow.blog/tag/richard-s-sutton/)
-2. [https://www.slideshare.net/carpedm20/presentations](https://www.slideshare.net/carpedm20/presentations)
+1. 교재 : [https://tensorflow.blog/tag/richard-s-sutton/](https://tensorflow.blog/tag/richard-s-sutton/)
+2. 한글 PPT : [https://www.slideshare.net/carpedm20/presentations](https://www.slideshare.net/carpedm20/presentations)
+3. 소스코드 : [https://github.com/ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
