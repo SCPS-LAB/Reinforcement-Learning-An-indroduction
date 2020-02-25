@@ -6,6 +6,11 @@ viewer : [https://nbviewer.jupyter.org/github/SCPSAI/Reinforcement-Learning-An-i
 To. 2020.09.01 (5.5 개월)
 매주 학습 발표 자료 jupyter notebook으로 업로드
 
+### 진행 사항
+- 2020/02/19 : Chapter 1. Introduction - 김영진
+- 2020/02/26 : Chapter 2. Multi-arm Bandits - 권준형(1-3), 김한진(4-6), 김영진(7-10)
+- 2020/03/04 : Chapter 3. Finite Markov Decision Processes - ??
+
 ### contents structure
 
 ```
