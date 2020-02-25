@@ -4,6 +4,35 @@ Reinforcement Learning - An Introduction 교재 학습
 To. 2020.09.01
 매주 학습 발표 자료 jupyter notebook으로 업로드
 
+### 업로드 예시:
+
+====================================================
+
+# Introduction
+
+p1(**page 1**): 
+
+[내용 작성]
+※ 페이지 변경된 후, 첫 번째 문단 뒤에 페이지 번호 작성
+
+p2:
+
+[내용 작성]
+
+
+## 1.1 Reinforcement Learning
+
+p1:
+
+[내용 작성]
+
+p2:
+
+[내용 작성]
+
+
+====================================================
+
 
 ### contents structure
 ```
@@ -14,8 +43,8 @@ To. 2020.09.01
 │       └── fig 2.png
 │   └── chapter02
 │   └── ...
-├── implementation
-│   └── sources
+├── codes
+│   └── reinforcement-learning-an-introduction
 │   └── ...
 ├── Chapter 1.introduction.jype
 ├── Chapter 2.Multi-armed Bandits.jype
