@@ -1,12 +1,32 @@
 # Reinforcement-Learning---An-indroduction
 Reinforcement Learning - An Introduction 교재 학습
 
-To. 2020.09.01
+To. 2020.09.01 (5.5 개월)
 매주 학습 발표 자료 jupyter notebook으로 업로드
+
+### contents structure
+
+```
+ .
+├── images
+│   └── chapter01
+│       └── fig 1.jpeg
+│       └── fig 2.png
+│   └── chapter02
+│   └── ...
+├── codes
+│   └── reinforcement-learning-an-introduction
+│   └── ...
+├── Chapter 1.introduction.jype
+├── Chapter 2.Multi-armed Bandits.jype
+├── ...
+├── README.md
+```
 
 ### 업로드 예시:
 
-====================================================
+
+=======================Chapter 1.introduction.ipynb start=============================
 
 # Introduction
 
@@ -31,26 +51,8 @@ p2:
 [내용 작성]
 
 
-====================================================
+=======================Chapter 1.introduction.ipynb end=============================
 
-
-### contents structure
-```
- .
-├── images
-│   └── chapter01
-│       └── fig 1.jpeg
-│       └── fig 2.png
-│   └── chapter02
-│   └── ...
-├── codes
-│   └── reinforcement-learning-an-introduction
-│   └── ...
-├── Chapter 1.introduction.jype
-├── Chapter 2.Multi-armed Bandits.jype
-├── ...
-
-```
 
 참고링크 : 
 1. 교재 : [https://tensorflow.blog/tag/richard-s-sutton/](https://tensorflow.blog/tag/richard-s-sutton/)
