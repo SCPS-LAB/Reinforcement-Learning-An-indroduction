@@ -1,7 +1,8 @@
 # Reinforcement-Learning---An-indroduction
 Reinforcement Learning - An Introduction 교재 학습
 
-viewer : [https://nbviewer.jupyter.org/github/SCPSAI/Reinforcement-Learning-An-indroduction/tree/master/](https://nbviewer.jupyter.org/github/SCPSAI/Reinforcement-Learning-An-indroduction/tree/master/) 
+viewer : [https://nbviewer.jupyter.org/github/SCPSAI/Reinforcement-Learning-An-indroduction/tree/master/](https://nbviewer.jupyter.org/github/SCPSAI/Reinforcement-Learning-An-indroduction/tree/master/)
+ 
 viewer update(refresh) : {url}?flush_cache=true
 
 To. 2020.09.01 (5.5 개월)
