@@ -11,7 +11,7 @@ To. 2020.09.01 (5.5 개월)
 ### 진행 사항
 - 2020/02/19 : Chapter 1. Introduction - 김영진
 - 2020/02/26 : Chapter 2. Multi-arm Bandits - 권준형(1-3), 김한진(4-6), 김영진(7-10)
-- 2020/03/04 : Chapter 3. Finite Markov Decision Processes - ??
+- 2020/03/04 : Chapter 3. Finite Markov Decision Processes - 권준형(1-3), 김한진(4-7), 김영진(8)
 
 ### contents structure
 
