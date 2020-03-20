@@ -85,3 +85,4 @@ p2:
 5. TF Blog(참고): [https://tensorflow.blog/tag/richard-s-sutton/](https://tensorflow.blog/tag/richard-s-sutton/)
 6. LaTeX 심볼 : [https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 7. 깃허브 이미지 올리기(디스크 차지X) : [https://worthpreading.tistory.com/83](https://worthpreading.tistory.com/83)
+8. 참고할만한 강의 영상 : [https://www.youtube.com/playlist?list=PLKs7xpqpX1beJ5-EOFDXTVckBQFFyTxUH](https://www.youtube.com/playlist?list=PLKs7xpqpX1beJ5-EOFDXTVckBQFFyTxUH)
